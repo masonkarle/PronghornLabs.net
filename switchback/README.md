@@ -13,4 +13,4 @@ Switchback stamps each paragraph’s scripture citations onto the blank ASL note
 
 **[Download Switchback for Mac](https://github.com/masonkarle/PronghornLabs.net/releases?q=switchback&expanded=true)**: open the newest release and download the `.dmg`.
 
-Questions or ideas: hello@pronghornlabs.net
+More: [pronghornlabs.net/switchback](https://pronghornlabs.net/switchback/) · Questions or ideas: hello@pronghornlabs.net
